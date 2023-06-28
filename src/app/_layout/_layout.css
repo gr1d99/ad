@@ -1,0 +1,30 @@
+.layout-wrapper {
+    min-height: 100vh;
+}
+
+.topbar-layout-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: aqua;
+}
+
+.header-wrapper {
+    position: absolute;
+    height: 4rem;
+    background: bisque;
+}
+
+.sidebar-layout-wrapper {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.tms-main-sidebar {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 8rem;
+}
